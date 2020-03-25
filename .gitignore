@@ -1,18 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> ebd0649... Deleted commit cherry - picked into the working directory
 *pyc
 /register/migrations/__pycache__/
-=======
-*.pyc
-/migrations
->>>>>>> b83b2d5... Migration / Pyacache / Database (SQL file) added to .gitignore
-<<<<<<< HEAD
-=======
-*.pyc
-/migrations
->>>>>>> b83b2d5... Migration / Pyacache / Database (SQL file) added to .gitignore
-=======
->>>>>>> ebd0649... Deleted commit cherry - picked into the working directory
